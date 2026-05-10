@@ -1,0 +1,4 @@
+itemGroup.bushcraft=BushCraft
+
+item.bushcraft:flint_knife.name=Flintstone Knife
+item.bushcraft:wooden_club.name=Wooden Club
